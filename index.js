@@ -265,3 +265,4 @@ process.on('SIGINT', () => {
 process.on('uncaughtException', (err) => {
   console.error('Uncaught exception:', err);
 });
+npm start 
